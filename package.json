@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "description": "TypeScript implementations of design patterns found in Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manaf-Ibrahim/design-patterns-ts.git"
+  },
+  "keywords": [
+    "Design",
+    "Patterns",
+    "Typescript"
+  ],
+  "author": "Manaf Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manaf-Ibrahim/design-patterns-ts/issues"
+  },
+  "homepage": "https://github.com/Manaf-Ibrahim/design-patterns-ts#readme"
+}
