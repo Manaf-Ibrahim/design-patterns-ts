@@ -1,10 +1,10 @@
 # Design Patterns in Typescript
 
-common design patterns from the book 
+Common design patterns from the book 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A Typescript Implementation of all the patterns found in the book - mostly for my personal study.
 
 ## Getting Started
 
