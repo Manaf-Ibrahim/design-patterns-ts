@@ -1,7 +1,5 @@
 # Design Patterns in Typescript
 
-Common design patterns from the book 
-
 ## Description
 
 A Typescript Implementation of all the patterns found in the book - mostly for my personal study.
@@ -25,8 +23,6 @@ Please contact me directly if you have any issues, questions or would like to co
 
 ## Authors
 
-Contributors names and contact info
-
 Manaf Ibrahim  
 [@Fanam_](https://twitter.com/fanam_)
 
@@ -41,4 +37,4 @@ This project is licensed under the ISC License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Eric Gamma, Richard Helm, Ralph Johnson and John Vlissides for there excellent book and ideas.
+Eric Gamma, Richard Helm, Ralph Johnson and John Vlissides for their excellent book and ideas.
